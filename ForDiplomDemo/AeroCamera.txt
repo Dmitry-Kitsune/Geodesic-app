@@ -1,0 +1,14 @@
+	Camera's data
+
+PrincipalDistance 153.260 mm
+
+Photo_FiducialCoordinate   1   106.003  -106.002 mm
+Photo_FiducialCoordinate   2  -105.998  -105.998 mm
+Photo_FiducialCoordinate   3  -106.005   106.004 mm
+Photo_FiducialCoordinate   4   105.995   105.995 mm
+Photo_FiducialCoordinate   5     0.001  -112.000 mm
+Photo_FiducialCoordinate   6  -111.997     0.007 mm
+Photo_FiducialCoordinate   7    -0.010   111.996 mm
+Photo_FiducialCoordinate   8   111.996    -0.004 mm
+
+Photo_PrincipalPtOffset         -0.010    -0.009 mm
